@@ -1,1 +1,2 @@
-<img src="SmartSelect_20251125-222803_Video Player" width="600" />
+![App Demo](assets/SmartSelect_20251125-222803_Video Player.gif)
+<img src="assets/SmartSelect_20251125-222803_Video Player.gif" width="600" />
