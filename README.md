@@ -1,1 +1,1 @@
-(assets/SmartSelect_20251125-222803_Video Player.gif)
+![App Demo](assets/SmartSelect_20251125-222803_Video Player.gif)
